@@ -6,15 +6,25 @@
 
 ## Opening Remarks
 ### General Welcome
-- Welcome to Code & Coffee!
+- Welcome to VanFP!
+
+### Mission Statement
+- [ ] Equal and welcoming
+- [ ] Community Stage
+- [ ] Build community
+- [ ] Share what you know
+- [ ] Get people interested in FP
+- [ ] Explore other areas of FP
+- [ ] Find people to work on projects, get help, and so on
+- [ ] Carve out some time to work on your passion projects
 
 ### Thanks
-- [ ] Mobify for use of the space
+- [ ] Unbounce for use of the space
 - [ ] Any other sponsors for the event
 - [ ] [Alanna Munro](http://www.alannamunro.com) of [Type Brigade](http://www.meetup.com/typebrigade/) for the logo & branding
 
 ### Housekeeping
-- [ ] We have coffee, tea, &c. Help yourself!
+- [ ] We have water, coffee, tea, TimBits, &c. Help yourself!
 
 ### Speakers
 - [ ] Our speakers today are...
@@ -24,14 +34,6 @@
 ### House Keeping
 - [ ] We have coffee, tea, &c. Help yourself!
 - [ ] We have stickers! Come and get them!
-
-### Mission Statement
-- [ ] Equal and welcoming
-- [ ] Community Stage
-- [ ] Build community
-- [ ] Share what you know
-- [ ] Find people to work on projects, get help, and so on
-- [ ] Carve out some time to work on your passion projects
 
 ### Acquire Speakers
 - [ ] Interested in speaking or giving a hands-on workshop?
@@ -47,11 +49,8 @@
 
 ### Social Media
 - [ ] Find us on the web!
-- [ ] [Meetup.com](http://www.meetup.com/Code-Coffee-Vancouver/) as "Code and Coffee"
-- [ ] [YouTube](https://www.youtube.com/channel/UCQaXHorjVswT9xm8Ho7G0RQ)
-- [ ] Twitter ([@codecoffeeyvr](https://twitter.com/codecoffeeyvr))
-- [ ] [VanDev Slack](https://yvrdev.slack.com) `#code-and-coffee`
-- [ ] GitHub as [Code-and-Coffee-YVR](https://github.com/Code-and-Coffee-YVR)
+- [ ] [Meetup.com](http://www.meetup.com/Vancouver-Functional-Programmers) as "Vancouver Functional Programmers"
+- [ ] GitHub as [Vancouver Functional Programmers](https://github.com/Vancouver-Functional-Programmers)
 
 ## 10 Minutes to End
 - [ ] Start wrapping up
@@ -59,7 +58,7 @@
 
 ## Closing Remarks
 ### Thanks (again)
-- [ ] Mobify for use of the space
+- [ ] Unbounce for use of the space
 - [ ] Any other sponsors for the event
 - [ ] Everyone for showing up!
 - [ ] If you'd like to speak, please drop us a line!
